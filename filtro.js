@@ -1,5 +1,7 @@
 // Tenemos un li de productos
 
+//Se agregaron los ";" en lineas de codigo faltantes, se intento modificar el selector de la variable li, y se agrego class en html para variable input
+
 const productos = [
   { nombre: "Zapato negro", tipo: "zapato", color: "negro", img: "./taco-negro.jpg" },
   { nombre: "Zapato azul", tipo: "zapato", color: "azul", img: "./taco-azul.jpg" },
